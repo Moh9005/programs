@@ -10,7 +10,7 @@ for i in range (n):
     for j in range (x):
         # print(b[j], c[l] ,j,l)
         if a[i]==b[j]:
-            # c[l]= ' '
+            #c.append(a[i])
             m +=1
 print(c)
 
