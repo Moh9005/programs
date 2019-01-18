@@ -1,0 +1,5 @@
+x=input("Enter firsr binary Number = ")
+y=input("Enter firsr binary Number = ")
+x=int(x, 2)
+y=int(y, 2)
+print(x*y)
